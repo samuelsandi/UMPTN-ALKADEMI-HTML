@@ -1,10 +1,13 @@
+body {
+    margin:0;
+    padding:0;
+}
+
 header, article, footer {
     background-position:center;
     width:auto;
     height:max-content;
     padding:10px;
-    border:1px solid black;
-    margin:5px;
     font-family: sans-serif;
 }
 
